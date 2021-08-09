@@ -1,2 +1,0 @@
-# blog-sederhana
-tugas blog
